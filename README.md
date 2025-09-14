@@ -7,3 +7,4 @@ Kardila Varani Barutu NIM 2509116009
 
 # OUTPUT
 <img width="1195" height="483" alt="ddp1" src="https://github.com/user-attachments/assets/1f903652-e9b5-458a-af75-1b8900f4d308" />
+Menambahkan data pekerja baru ke dalam daftar.
