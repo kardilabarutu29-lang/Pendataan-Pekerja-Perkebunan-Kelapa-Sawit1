@@ -7,7 +7,6 @@ NIM     : 2509116009
 <img width="1041" height="652" alt="flowchart ddp1 drawio" src="https://github.com/user-attachments/assets/13b05cba-46a0-412b-aaec-7be9d0e2d90a" />
 
 # Program Pendataan
-# OUTPUT
 <img width="1074" height="976" alt="ss1" src="https://github.com/user-attachments/assets/b1a995fb-77f6-46ca-84ca-58127b2250c0" />
 
 
@@ -16,6 +15,8 @@ NIM     : 2509116009
 
 <img width="906" height="619" alt="ss3" src="https://github.com/user-attachments/assets/588459be-2c9e-4b30-b193-cf9e8b7e553d" />
 
+
+# OUTPUT
 **pilihan == 1**
 <img width="1195" height="483" alt="ddp1" src="https://github.com/user-attachments/assets/1f903652-e9b5-458a-af75-1b8900f4d308" />
 Menambahkan data pekerja baru ke dalam daftar.
