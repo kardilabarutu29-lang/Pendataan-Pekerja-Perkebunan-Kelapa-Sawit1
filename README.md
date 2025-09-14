@@ -13,7 +13,7 @@ NIM     : 2509116009
 <img width="922" height="817" alt="ss2" src="https://github.com/user-attachments/assets/ce05fd22-5f69-42b7-8fb3-641654c9b3de" />
 
 
-<img width="906" height="619" alt="ss3" src="https://github.com/user-attachments/assets/588459be-2c9e-4b30-b193-cf9e8b7e553d" />
+<img width="803" height="223" alt="Screenshot_14" src="https://github.com/user-attachments/assets/dbad0db0-41f8-4c40-bf81-92d2a05d5915" />
 
 
 # OUTPUT
