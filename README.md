@@ -1,5 +1,6 @@
 # Pendataan-Pekerja-Perkebunan-Kelapa-Sawit1
-Kardila Varani Barutu NIM 2509116009
+Nama    : Kardila Varani Barutu 
+NIM     : 2509116009
 
 # FLOWCHART
 
@@ -25,6 +26,6 @@ Menghapus data pekerja berdasarkan NIK.
 <img width="1138" height="328" alt="ddp4" src="https://github.com/user-attachments/assets/857b17a3-de6f-48e7-aa1f-2cff33d79427" />
 Mengakhiri program.
 
-**pilihan == 5**
+**else** 
 <img width="1199" height="383" alt="ddp5" src="https://github.com/user-attachments/assets/4598b319-918e-4299-a052-51078e373c76" />
 Program menampilkan pesan "Pilihan tidak valid."
